@@ -1,1 +1,1 @@
-# kinda_ege
+# EGE
